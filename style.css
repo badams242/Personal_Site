@@ -1,0 +1,7 @@
+body{background-color:gold;}
+p{font-style: oblique;font-size: xx-large;}
+div{display: flex;
+justify-content: center;
+height: 400px;}
+nav{display: inline-block;
+margin: 10px 20px;}
