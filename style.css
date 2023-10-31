@@ -4,4 +4,8 @@ div{display: flex;
 justify-content: center;
 height: 400px;}
 nav{display: inline-block;
-margin: 10px 20px;}
+margin: 20px 300px;
+font-size: x-large;}
+article{background-color: gold;}
+p{font-style: oblique;}
+header{font-size: x-large;}
