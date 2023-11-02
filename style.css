@@ -9,3 +9,26 @@ font-size: x-large;}
 article{background-color: gold;}
 p{font-style: oblique;}
 header{font-size: x-large;}
+.hero{
+    width: 100%;
+    height: 100vh;
+    background-color: darkblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+form{
+    width: 90%;
+    max-width: 600px;
+}
+.input-group{
+    margin-bottom: 30px;
+}
+inpuy, textarea{
+    width: 100%;
+    padding: 10px;
+    outline: 0;
+    border: 1px solid black;
+    color: black;
+    font-size: 15px;
+}
