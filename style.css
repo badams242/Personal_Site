@@ -5,11 +5,11 @@
     font-family: 'Poppins', sans-serif;
 }
 body{
-    background-color: black;
+    background-color: gold;
 }
 section{
     font-size: 25px;
-    color: darkblue;
+    color: black;
     text-decoration: none;
     font-weight: 500;
 }
@@ -19,7 +19,7 @@ section{
     left: 0;
     width: 100%;
     padding: 20px;
-    background-color: darkblue;
+    background-color: whitesmoke;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -42,7 +42,7 @@ section{
 .hero{
     width: 100%;
     height: 100vh;
-    background-color: darkblue;
+    background-color: gold;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -54,13 +54,13 @@ form{
 .input-group{
     margin-bottom: 30px;
     font-size: medium;
-    color: darkblue;
+    color: black;
 }
 input, textarea{
     width: 100%;
     padding: 10px;
     outline: 0;
-    border: 1px solid darkblue;
-    color: darkblue;
+    border: 1px solid black;
+    color: rgb(13, 4, 4);
     font-size: 15px;
 }
